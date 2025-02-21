@@ -47,8 +47,12 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 ### Countries with the Largest Increases in Life Expectancy
 - Haiti saw the highest improvement in life expectancy (+28.7 years), followed by Zimbabwe and Eritrea, highlighting significant health progress in these regions.
 
+  <img src="Visualizations/Top_10_Countries_Life_Exp_Inc.webp" alt="Top 10 Countries with Largest Life Expectancy Increase" width="600">
+
 ### GDP and Life Expectancy Correlation
 - A noticeable relationship was observed between GDP and life expectancy. Countries with GDP above 1,750 had an average life expectancy of 74 years, while those below had an average of 65 years.
+  
+<img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="600">![image](https://github.com/user-attachments/assets/ee7aa77a-c649-44a1-81ba-722779e066ea)
 
 ### Developed vs. Developing Countries
 - Developed countries maintain a significantly higher life expectancy (79 years) compared to developing nations (67 years). This underscores the role of economic stability in health outcomes.
