@@ -52,19 +52,19 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 ### GDP and Life Expectancy Correlation
 - A noticeable relationship was observed between GDP and life expectancy. Countries with GDP above 1,750 had an average life expectancy of 74 years, while those below had an average of 65 years.
   
-<img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="575">
+<img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="550">
 
 ### Developed vs. Developing Countries
 - Developed countries maintain a significantly higher life expectancy (79 years) compared to developing nations (67 years). This underscores the role of economic stability in health outcomes.
 - The dataset is dominated by developing countries (161 vs. 32 developed nations), which may skew overall trends.
 
-<img src="Visualizations/Avg_Life_Exp_Econ_Status.webp" alt="Average Life Expectancy by Economic Status" width="575">
+<img src="Visualizations/Avg_Life_Exp_Econ_Status.webp" alt="Average Life Expectancy by Economic Status" width="550">
 
 ### BMI and Life Expectancy Analysis
 - Countries with BMI values between 10-30 tend to have life expectancy around 60 years, while those with BMI values of 50+ cluster around 75 years. This suggests other health and economic factors influence longevity.
 - Further research incorporating healthcare quality, lifestyle factors, and disease prevalence could help clarify the underlying reasons for this relationship.
 
-<img src="Visualizations/BMI_Life_Exp_Corr.webp" alt="BMI and Life Expectancy Correlation" width="600">
+<img src="Visualizations/BMI_Life_Exp_Corr.webp" alt="BMI and Life Expectancy Correlation" width="550">
 
 ### Adult Mortality Trends and Regional Disparities
 - Over the past 15 years, average adult mortality rates have generally declined, decreasing by 13.3% from 2007 to 2022. While some fluctuations occurred in certain years, the overall trend reflects improvements in healthcare and disease prevention.
