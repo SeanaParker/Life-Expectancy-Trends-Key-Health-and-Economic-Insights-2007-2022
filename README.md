@@ -26,6 +26,8 @@ The dataset consists of two main tables: **World_Life_Expectancy** and **World_L
 - **World_Life_Expectancy**: Contains life expectancy data for 193 countries over a 15-year period (2007–2022), along with key health and economic indicators.
 - **World_Life_Expectancy_Continents**: Serves as a reference table that categorizes each country by its corresponding region and sub-region.
 
+![Schema of World Life Expectancy Data](Visualizations/World_Life_Exp_Schemas.webp)
+
 ### Data Cleaning Steps:
 - Removed duplicate entries based on 'Country' and 'Year'.
 - Addressed missing values by filling blank 'Status' values with the most frequent classification for each country.
