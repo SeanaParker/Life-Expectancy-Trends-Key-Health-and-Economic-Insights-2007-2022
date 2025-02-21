@@ -42,6 +42,8 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 ### Global Life Expectancy Trends
 - The global average life expectancy increased by 7.30%, rising from 66.75 to 71.62 years over 15 years, reflecting advancements in healthcare, disease prevention, and living conditions.
 
+<img src="Visualizations/Global_Life_Exp_Trend.webp" alt="Global Life Expectancy Trend" width="600">
+
 ### Countries with the Largest Increases in Life Expectancy
 - Haiti saw the highest improvement in life expectancy (+28.7 years), followed by Zimbabwe and Eritrea, highlighting significant health progress in these regions.
 
