@@ -50,7 +50,7 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
   <img src="Visualizations/Top_10_Countries_Life_Exp_Inc.webp" alt="Top 10 Countries with Largest Life Expectancy Increase" width="600">
 
 ### GDP and Life Expectancy Correlation
-- A noticeable relationship was observed between GDP and life expectancy. Countries with GDP above the median GDP value 1,750 had an average life expectancy of 74 years, while those below had an average of 65 years.
+- A noticeable relationship was observed between GDP and life expectancy. Countries with a GDP above the median value of 1,750 had an average life expectancy of 74 years, while those below this threshold averaged 65 years.
   
 <img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="550">
 
