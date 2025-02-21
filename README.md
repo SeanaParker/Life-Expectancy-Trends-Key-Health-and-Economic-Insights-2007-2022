@@ -92,8 +92,7 @@ Based on these insights, I recommend the following actions:
 - Data accuracy depends on the completeness and reliability of reports from individual countries.
 - BMI is considered as a standalone factor, without accounting for broader lifestyle and healthcare variables.
 ---
-The SQL queries used to inspect and clean the data for this analysis can be found [here](Exploration/World_Life_Exp_Proj_Data_Cleaning.sql).
-
-Targeted SQL queries used for exploratory analysis can be found [here](Exploration/World_Life_Exp_Proj_Exploratory_Data_Analysis.sql).
-
-Raw datasets in Excel format can be found [here](Exploration/World_Life_Expectancy_Datasets.xlsx).
+- The SQL queries used to inspect and clean the data for this analysis can be found [here](Exploration/World_Life_Exp_Proj_Data_Cleaning.sql).
+- Targeted SQL queries used for exploratory analysis can be found [here](Exploration/World_Life_Exp_Proj_Exploratory_Data_Analysis.sql).
+- Raw datasets in Excel format can be found [here](Exploration/World_Life_Expectancy_Datasets.xlsx).
+- For more of my projects and data journey, visit my portfolio website and reach out!
