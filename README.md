@@ -73,8 +73,7 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 
   <img src="Visualizations/Global_Adult_mort_Life_Exp_Trend.webp" alt="Global Adult Mortality and Life Expectancy Trend" width="600">
 
-- Examining the 3-Year Moving Average of Adult Mortality by Region, Africa consistently recorded the highest mortality rates, peaking in 2013 before gradually declining.
-- Europe and Oceania maintain the lowest adult mortality rates, with Europe showing a steady decline from 140 in 2007 to 81 in 2022. The Americas and Asia also display a downward trend, though their improvements have been more gradual compared to Africa’s decline.
+- An analysis of the 3-year moving average of adult mortality rates shows that Africa had the highest rates, peaking in 2013 before gradually declining. Europe and Oceania had the lowest rates, with Europe decreasing steadily from 140 in 2007 to 81 in 2022. The Americas and Asia also showed a downward trend, though their decline was more gradual.
 
 <img src="Visualizations/Adult_Mort_Region_Moving_Avg.webp" alt="Adult Mortality Moving Average by Region" width="600">
 
@@ -88,10 +87,10 @@ Based on these insights, I recommend the following actions:
 
 ## Assumptions and Caveats
 
-- Some countries had missing 'Status' values, which were imputed based on the most frequent classification for that country.
-- Missing 'Lifeexpectancy' values were estimated using the average from adjacent years, assuming minimal fluctuation year-over-year.
 - Data accuracy depends on the completeness and reliability of reports from individual countries.
 - BMI is considered as a standalone factor, without accounting for broader lifestyle and healthcare variables.
+- Some countries had missing 'Status' values, which were imputed based on the most frequent classification for that country.
+- Missing 'Lifeexpectancy' values were estimated using the average from adjacent years, assuming minimal variance year-over-year.
 ---
 - The SQL queries used to inspect and clean the data for this analysis can be found [here](Exploration/World_Life_Exp_Proj_Data_Cleaning.sql).
 - Targeted SQL queries used for exploratory analysis can be found [here](Exploration/World_Life_Exp_Proj_Exploratory_Data_Analysis.sql).
