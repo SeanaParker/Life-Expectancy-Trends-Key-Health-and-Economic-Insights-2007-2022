@@ -87,6 +87,7 @@ Based on these insights, I recommend the following actions:
 
 ## Assumptions and Caveats
 
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 - Data accuracy depends on the completeness and reliability of reports from individual countries.
 - BMI is considered as a standalone factor, without accounting for broader lifestyle and healthcare variables.
 - Some countries had missing 'Status' values, which were imputed based on the most frequent classification for that country.
