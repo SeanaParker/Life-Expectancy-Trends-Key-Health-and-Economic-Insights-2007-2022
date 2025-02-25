@@ -1,4 +1,4 @@
-# Global-Life-Expectancy-Analysis-2007-2022
+# Global Life Expectancy Analysis (2007-2022)
 
 ## Table of Contents
 
