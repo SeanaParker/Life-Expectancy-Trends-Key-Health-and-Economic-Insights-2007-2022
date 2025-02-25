@@ -30,9 +30,9 @@ The dataset consists of two main tables: **World_Life_Expectancy** and **World_L
 World Life Expectancy Dataset ERD
 
 ### Data Cleaning Steps:
-- Removed duplicate entries based on 'Country' and 'Year'.
-- Addressed missing values by filling blank 'Status' values with the most frequent classification for each country.
-- Imputed missing 'Lifeexpectancy' values using the average from adjacent years for the same country.
+- Removed duplicate entries based on `Country` and `Year`.
+- Addressed missing values by filling blank `Status` values with the most frequent classification for each country.
+- Imputed missing `Lifeexpectancy` values using the average from adjacent years for the same country.
 
 ## Executive Summary
 
