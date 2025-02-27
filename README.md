@@ -17,7 +17,7 @@
 
 ## Project Background
 
-Life expectancy is a key indicator of health and economic conditions worldwide. This project analyzes data from the Global Health Observatory (GHO) under the World Health Organization (WHO) and economic indicators from the United Nations, covering 193 countries from 2007 to 2022. Using SQL, I explored trends, examined disparities in life expectancy, and assessed the relationship between GDP and healthcare access. The findings provide important insights for policymakers and healthcare organizations working to improve health outcomes and reduce disparities in life expectancy.
+Life expectancy is a key indicator of global health and economic conditions. This project analyzes data from the Global Health Observatory (GHO) under the World Health Organization (WHO) and economic indicators from the United Nations, covering 193 countries from 2007 to 2022. Using SQL, I examined trends in life expectancy, disparities across regions, and the relationship between GDP and healthcare access. The findings offer valuable insights for policymakers and healthcare organizations seeking to improve health outcomes and reduce disparities.
 
 ## Data Structure & Initial Checks
 
