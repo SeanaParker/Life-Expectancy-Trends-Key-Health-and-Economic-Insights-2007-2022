@@ -26,7 +26,7 @@ The dataset consists of two main tables: **World_Life_Expectancy** and **World_L
 - **World_Life_Expectancy**: Contains life expectancy data for 193 countries over a 15-year period (2007–2022), along with key health and economic indicators.
 - **World_Life_Expectancy_Continents**: Serves as a reference table that categorizes each country by its corresponding region and sub-region.
 
-  <img src="Visualizations/World_Life_Exp_Schemas.webp" alt="Schema of World Life Expectancy Data" width="575">
+  <img src="Visualizations/World_Life_Exp_Schemas.webp" alt="Schema of World Life Expectancy Data" width="550">
 World Life Expectancy Dataset ERD
 
 ### Data Cleaning Steps:
@@ -43,7 +43,7 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 ### Global Life Expectancy Trends
 - The global average life expectancy increased by 7.30%, rising from 66.75 to 71.62 years over 15 years, reflecting advancements in healthcare, disease prevention, and living conditions.
 
-  <img src="Visualizations/Global_Life_Exp_Trend.webp" alt="Global Life Expectancy Trend" width="650">
+  <img src="Visualizations/Global_Life_Exp_Trend.webp" alt="Global Life Expectancy Trend" width="600">
 
 ### Countries with the Largest Increases in Life Expectancy
 - Haiti saw the highest improvement in life expectancy (+28.7 years), followed by Zimbabwe and Eritrea, highlighting significant health progress in these regions.
@@ -53,13 +53,13 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 ### GDP and Life Expectancy Correlation
 - A noticeable relationship was observed between GDP and life expectancy. Countries with a GDP above the median value of 1,750 had an average life expectancy of 74 years, while those below this threshold averaged 65 years.
   
-  <img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="600">
+  <img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="550">
 
 ### Developed vs. Developing Countries
 - Developed countries maintain a significantly higher life expectancy (79 years) compared to developing nations (67 years). This underscores the role of economic stability in health outcomes.
 - The dataset is dominated by developing countries (161 vs. 32 developed nations), which may skew overall trends.
 
-  <img src="Visualizations/Avg_Life_Exp_Econ_Status.webp" alt="Average Life Expectancy by Economic Status" width="600">
+  <img src="Visualizations/Avg_Life_Exp_Econ_Status.webp" alt="Average Life Expectancy by Economic Status" width="500">
 
 ### BMI and Life Expectancy Analysis
 - Countries with BMI values between 10-30 tend to have life expectancy around 60 years, while those with BMI values of 50+ cluster around 75 years. This suggests other health and economic factors influence longevity.
