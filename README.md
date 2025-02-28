@@ -43,7 +43,7 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 ### Global Life Expectancy Trends
 - The global average life expectancy increased by 7.30%, rising from 66.75 to 71.62 years over 15 years, reflecting advancements in healthcare, disease prevention, and living conditions.
 
-<img src="Visualizations/Global_Life_Exp_Trend.webp" alt="Global Life Expectancy Trend" width="650">
+  <img src="Visualizations/Global_Life_Exp_Trend.webp" alt="Global Life Expectancy Trend" width="650">
 
 ### Countries with the Largest Increases in Life Expectancy
 - Haiti saw the highest improvement in life expectancy (+28.7 years), followed by Zimbabwe and Eritrea, highlighting significant health progress in these regions.
@@ -53,19 +53,19 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 ### GDP and Life Expectancy Correlation
 - A noticeable relationship was observed between GDP and life expectancy. Countries with a GDP above the median value of 1,750 had an average life expectancy of 74 years, while those below this threshold averaged 65 years.
   
-<img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="600">
+  <img src="Visualizations/Avg_Life_Exp_GDP.webp" alt="Average Life Expectancy vs GDP" width="600">
 
 ### Developed vs. Developing Countries
 - Developed countries maintain a significantly higher life expectancy (79 years) compared to developing nations (67 years). This underscores the role of economic stability in health outcomes.
 - The dataset is dominated by developing countries (161 vs. 32 developed nations), which may skew overall trends.
 
-<img src="Visualizations/Avg_Life_Exp_Econ_Status.webp" alt="Average Life Expectancy by Economic Status" width="600">
+  <img src="Visualizations/Avg_Life_Exp_Econ_Status.webp" alt="Average Life Expectancy by Economic Status" width="600">
 
 ### BMI and Life Expectancy Analysis
 - Countries with BMI values between 10-30 tend to have life expectancy around 60 years, while those with BMI values of 50+ cluster around 75 years. This suggests other health and economic factors influence longevity.
 - Further research incorporating healthcare quality, lifestyle factors, and disease prevalence could help clarify the underlying reasons for this relationship.
 
-<img src="Visualizations/BMI_Life_Exp_Corr.webp" alt="BMI and Life Expectancy Correlation" width="600">
+  <img src="Visualizations/BMI_Life_Exp_Corr.webp" alt="BMI and Life Expectancy Correlation" width="600">
 
 ### Adult Mortality Trends and Regional Disparities
 - Over the past 15 years, average adult mortality rates have generally declined, decreasing by 13.3% from 2007 to 2022. While some fluctuations occurred in certain years, the overall trend reflects improvements in healthcare and disease prevention.
@@ -75,7 +75,7 @@ Over the past 15 years, global life expectancy has increased by 7.30%, rising fr
 
 - An analysis of the 3-year moving average of adult mortality rates shows that Africa had the highest rates, peaking in 2013 before gradually declining. Europe and Oceania had the lowest rates, with Europe decreasing steadily from 140 in 2007 to 81 in 2022. The Americas and Asia also showed a downward trend, though their decline was more gradual.
 
-<img src="Visualizations/Adult_Mort_Region_Moving_Avg.webp" alt="Adult Mortality Moving Average by Region" width="650">
+  <img src="Visualizations/Adult_Mort_Region_Moving_Avg.webp" alt="Adult Mortality Moving Average by Region" width="650">
 
 ## Recommendations
 
