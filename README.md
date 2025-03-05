@@ -19,6 +19,12 @@
 
 Life expectancy is a key indicator of global health and economic conditions. This project analyzes data from the Global Health Observatory (GHO) under the World Health Organization (WHO) and economic indicators from the United Nations, covering 193 countries from 2007 to 2022. Using SQL, I examined trends in life expectancy, disparities across regions, and the relationship between GDP and healthcare access. The findings offer valuable insights for policymakers and healthcare organizations seeking to improve health outcomes and reduce disparities.
 
+The SQL queries used to inspect and clean the data for this analysis can be found [here.](Exploration/World_Life_Exp_Proj_Data_Cleaning.sql)
+
+Targeted SQL queries used for exploratory analysis can be found [here.](Exploration/World_Life_Exp_Proj_Exploratory_Data_Analysis.sql)
+
+Raw datasets in Excel format can be found [here.](Exploration/World_Life_Expectancy_Datasets.xlsx)
+
 ## Data Structure & Initial Checks
 
 The dataset consists of two main tables: **World_Life_Expectancy** and **World_Life_Expectancy_Continents**, with a total row count of 3,187.
