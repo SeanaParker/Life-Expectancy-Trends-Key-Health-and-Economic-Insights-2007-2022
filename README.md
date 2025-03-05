@@ -1,4 +1,4 @@
-# Life Expectancy Trends: Key Health and Economic Insights (2007-2022)
+# Life Expectancy and the Economy: Trends and Health Insights (2007-2022)
 
 ## Table of Contents
 
