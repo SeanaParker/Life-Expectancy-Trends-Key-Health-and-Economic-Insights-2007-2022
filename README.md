@@ -1,4 +1,4 @@
-# Global Life Expectancy Trends and Insights (2007-2022)
+# Life Expectancy Trends: Key Health and Economic Insights (2007-2022)
 
 ## Table of Contents
 
