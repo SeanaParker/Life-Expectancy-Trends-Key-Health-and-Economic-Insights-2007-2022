@@ -33,7 +33,6 @@ The dataset consists of two main tables: **World_Life_Expectancy** and **World_L
 - **World_Life_Expectancy_Continents**: Serves as a reference table that categorizes each country by its corresponding region and sub-region.
 
   <img src="Visualizations/World_Life_Exp_Schemas.webp" alt="Schema of World Life Expectancy Data" width="550">
-World Life Expectancy Dataset ERD
 
 ### Data Cleaning Steps:
 - Removed duplicate entries based on `Country` and `Year`.
