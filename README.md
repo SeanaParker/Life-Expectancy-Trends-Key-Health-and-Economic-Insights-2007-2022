@@ -23,7 +23,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 Targeted SQL queries used for exploratory analysis can be found [here.](Exploration/World_Life_Exp_Proj_Exploratory_Data_Analysis.sql)
 
-Raw datasets in Excel format can be found [here.](Exploration/World_Life_Expectancy_Datasets.xlsx)
+Raw datasets available for download [here.](Exploration/World_Life_Expectancy_Datasets.xlsx)
 
 ## Data Structure & Initial Checks
 
