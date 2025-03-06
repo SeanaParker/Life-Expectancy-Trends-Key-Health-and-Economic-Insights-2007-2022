@@ -1,9 +1,7 @@
 # World Life Expectancy Project (Data Cleaning)
+-- https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 
--- Explore the dataset.
-SELECT * 
-FROM world_life_expectancy
-LIMIT 100;
+    
 
 -- Identify duplicate rows based on 'Country' and 'Year'.
 SELECT 
