@@ -41,7 +41,7 @@ The dataset consists of two main tables: **World_Life_Expectancy** and **World_L
 
 ## Executive Summary
 
-Global life expectancy has risen by 7.3% over the past 15 years, reaching 71.62 years, while adult mortality rates have declined by 13.3%, reflecting improvements in healthcare and disease prevention. Economic status remains a major predictor of life expectancy, with high-GDP nations averaging 74 years, compared to 65 years in lower-GDP countries, and developed countries (79 years) consistently outpacing developing ones (67 years). While BMI shows some correlation with life expectancy, healthcare quality and economic strength appear to have a far greater impact. Addressing disparities in healthcare access and economic growth could further improve global health and reduce mortality gaps.
+Over the past 15 years, global life expectancy has risen by 7.3%, reaching 71.62 years, while adult mortality rates have declined by 13.3%. Economic status remains a major factor, with high-GDP countries averaging 74 years of life expectancy compared to 65 years in lower-GDP nations. While BMI shows some correlation, healthcare quality and economic strength have a much greater impact on life expectancy, highlighting the need for greater investment in healthcare and economic growth to address global disparities.
 
 ## Insights Deep Dive
 
