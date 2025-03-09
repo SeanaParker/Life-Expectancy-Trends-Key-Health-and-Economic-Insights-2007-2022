@@ -17,7 +17,7 @@
 
 ## Project Background
 
-Life expectancy is a critical indicator of global health and economic conditions. This SQL-based analysis examines data from the Global Health Observatory (GHO) and economic indicators from the United Nations, covering 193 countries from 2007 to 2022. It identifies trends in life expectancy, regional disparities, and the relationship between GDP and healthcare access. The findings provide insights for policymakers and healthcare organizations aiming to improve health outcomes and address disparities.
+Life expectancy is a key measure of global health and economic conditions. This SQL-based analysis examines data from the Global Health Observatory (GHO) and economic indicators from the United Nations, covering 193 countries from 2007 to 2022. The project looks at trends in life expectancy, regional disparities, and the links between GDP and healthcare access, providing valuable insights for policymakers and healthcare organizations aiming to improve health outcomes.
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here.](Exploration/World_Life_Exp_Proj_Data_Cleaning.sql)
 
@@ -36,17 +36,17 @@ The dataset consists of two main tables: **World_Life_Expectancy** and **World_L
 
 ### Data Cleaning Steps:
 - Removed duplicate entries based on `Country` and `Year`.
-- Addressed missing values by filling blank `Status` values with the most frequent classification for each country.
-- Imputed missing `Lifeexpectancy` values using the average from adjacent years for the same country.
+- Filled missing 'Status' values with the most frequent classification for each country.
+- Imputed missing 'Lifeexpectancy' values by averaging adjacent years for each country.
 
 ## Executive Summary
 
-Over the past 15 years, global life expectancy has risen by 7.3%, reaching 71.62 years, while adult mortality rates have declined by 13.3%. Economic status remains a major factor, with high-GDP countries averaging 74 years of life expectancy compared to 65 years in lower-GDP nations. While BMI shows some correlation, healthcare quality and economic strength appear to have a much greater impact on life expectancy, highlighting the need for greater investment in healthcare and economic growth to address global disparities.
+Global life expectancy has risen by 7.3% over the past 15 years, reaching 71.62 years, while adult mortality rates have decreased by 13.3%. Economic status remains a major factor, with high-GDP countries averaging 74 years of life expectancy compared to 65 years in lower-GDP nations. While BMI shows some correlation, healthcare quality and economic strength appear to have a much greater impact on life expectancy, underlining the need for greater investment in healthcare and economic growth to bridge global disparities.
 
 ## Insights Deep Dive
 
 ### Global Life Expectancy Trends
-- The global average life expectancy increased by 7.30%, rising from 66.75 to 71.62 years over 15 years, reflecting advancements in healthcare, disease prevention, and living conditions.
+- The global average life expectancy increased by 7.3%, rising from 66.75 to 71.62 years from 2007 to 2022, reflecting improvements in healthcare, disease prevention, and living conditions.
 
   <img src="Visualizations/Global_Life_Exp_Trend.webp" alt="Global Life Expectancy Trend" width="600">
 
